@@ -6,7 +6,7 @@ export default function Home() {
    <div>
 
   <h2>Hello</h2>
-   <Link href={'https://mockaiv1-ved8290s-projects.vercel.app/dashboard'}> Dasboard</Link>
+   <Link href={'/dashboard'}> Dasboard</Link>
   </div>
 
   );
